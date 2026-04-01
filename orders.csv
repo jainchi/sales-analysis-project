@@ -1,0 +1,40 @@
+order_id,customer_id,restaurant_id,order_item,order_date,order_time,order_status,total_amount
+658,9,54,Pasta Alfredo,10/8/2023,23:59:58,Completed,314
+111,11,15,Chicken Biryani,3/3/2023,23:59:48,Completed,411
+8481,5,8,Masala Dosa,5/8/2023,23:59:48,Completed,200
+4634,17,58,Chicken Shawarma,8/3/2023,23:59:42,Completed,259
+8699,7,22,Samosa,8/11/2023,23:59:39,Completed,201
+2031,12,53,Burger,4/8/2023,23:59:38,Completed,252
+2844,15,27,Mutton Rogan Josh,5/3/2023,23:59:32,Completed,340
+4074,18,27,Paneer Butter Masala,11/1/2023,23:59:15,Completed,317
+3060,1,29,Pasta Alfredo,4/9/2023,23:58:52,Completed,422
+8260,7,5,Paneer Lababdar,1/12/2023,23:58:33,Completed,332
+2359,13,28,Masala Dosa,8/6/2023,23:58:17,Completed,529
+4928,22,42,Mutton Biryani,1/10/2023,23:58:07,Completed,263
+228,13,14,Egg Curry,6/5/2023,23:58:06,Completed,304
+1325,13,1,Prawn Masala,8/6/2023,23:58:05,Completed,266
+6422,18,46,Chole Bhature,10/9/2023,23:57:58,Completed,508
+4938,19,15,Chicken Shawarma,4/10/2023,23:57:56,Completed,309
+3439,9,37,Prawn Masala,1/4/2023,23:57:32,Completed,207
+3939,17,16,Masala Dosa,4/5/2023,23:57:32,Completed,324
+2416,6,20,Mutton Biryani,10/1/2023,23:57:30,Completed,298
+7023,5,56,Masala Dosa,3/1/2023,23:57:28,Completed,269
+5889,22,50,Paneer Lababdar,7/7/2023,23:57:27,Completed,331
+8831,7,25,Paneer Lababdar,4/8/2023,23:57:21,Completed,546
+7514,6,25,Mutton Biryani,3/3/2023,23:56:57,Completed,556
+4113,16,29,Prawn Masala,2/11/2023,23:56:56,Completed,210
+1111,7,5,Samosa,8/4/2023,23:56:51,Completed,259
+4992,19,4,Prawn Masala,8/4/2023,23:56:49,Completed,479
+9301,9,44,Dal Makhani,6/11/2023,23:56:35,Completed,461
+9206,9,19,Chole Bhature,2/10/2023,23:56:26,Completed,306
+6239,15,32,Chicken Shawarma,9/12/2023,23:56:20,Completed,233
+639,20,25,Paneer Butter Masala,12/11/2023,23:56:14,Completed,267
+8823,8,21,Samosa,11/11/2023,23:56:11,Completed,702
+1323,16,53,Mutton Biryani,6/5/2023,23:56:07,Completed,313
+5140,19,39,Paneer Butter Masala,3/3/2023,23:56:04,Completed,531
+9337,8,11,Chicken Tikka,6/3/2023,23:56:01,Completed,231
+4687,22,40,Hyderabadi Biryani,8/2/2023,23:55:57,Completed,362
+3485,10,58,Fish Curry,3/9/2023,23:55:56,Not Fulfilled,246
+7902,8,41,Paneer Tikka,1/7/2023,23:55:54,Completed,575
+5770,18,4,Butter Chicken,3/2/2023,23:55:45,Completed,502
+4344,21,42,Vegatable Fried Rice,10/9/2023,23:55:28,Completed,321
